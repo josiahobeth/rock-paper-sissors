@@ -25,10 +25,10 @@ while True:
     print("opponent choice:",c)
     print("opponent point:->",sum)
     print("your point:->",choice)
-    if(choice==1):
+    if(choice==10):
         print(winner)
     break
-    if(sum==1):
+    if(sum==10):
         print(lose)
     break
 
